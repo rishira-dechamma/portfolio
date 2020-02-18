@@ -1,0 +1,27 @@
+body{
+    background-color: mediumaquamarine ;
+}
+#Header a:hover{
+    color:#fff;
+}
+#bg-img{
+    background:url('images(2).jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+#About hr{
+    border-width:1px;
+    margin-top:1px;
+
+}
+.d-block{
+    width:30%;
+    height:400px;
+    margin-left: 470px;
+}
+
+
+
+
+
